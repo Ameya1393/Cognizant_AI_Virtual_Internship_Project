@@ -21,3 +21,4 @@
 
 ### Initial Dataset used: [Initial Sales Dataset](https://drive.google.com/drive/folders/1thgLwBgaD3tcl8aVWKTXFUjiXDo0I_bg)
 
+### Observation after the second step: 
