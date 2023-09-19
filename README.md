@@ -49,4 +49,7 @@
 # Conclusion:
 ### We have successfully developed a machine learning model using Random Forest to predict stock requirements based on hourly data and weather conditions. This end-to-end project has equipped me with in-depth knowledge of Python libraries and various functions. While this machine learning model is not perfect, we recognize that there is room for improvement through further testing and the application of different techniques. Nevertheless, it represents a significant initial stride in the right direction. With continued effort, we can create an efficient model that will enhance Gala Groceries' revenue.
 
+## Contact Information :
+### ameyadhurde@gmail.com
+### https://www.linkedin.com/in/ameyadhurde/
 
