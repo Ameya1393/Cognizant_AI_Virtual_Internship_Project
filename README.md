@@ -17,3 +17,5 @@
 ## Second step: Load the testing dataset and define the Key Performance Indicators (KPIs) for the Machine Learning Model. 
 ### Below is a comprehensive step-by-step guide with a completed Google Colab file that includes code to execute the described second step.
 
+[Google Colab File 1](https://colab.research.google.com/drive/1CkkFzAnQFj99LFznSzGbqIUGCGRVlXml?authuser=0#scrollTo=pSSkCqc0sCiG)
+
