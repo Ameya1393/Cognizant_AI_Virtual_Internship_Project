@@ -53,5 +53,5 @@
 
 ## Contact Information :
 ### ameyadhurde@gmail.com
-### https://www.linkedin.com/in/ameyadhurde/
+### [LinkedIn](https://www.linkedin.com/in/ameyadhurde/)
 
