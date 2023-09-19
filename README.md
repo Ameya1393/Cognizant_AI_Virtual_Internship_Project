@@ -15,7 +15,7 @@
 ![Data model for project shorte](https://github.com/Ameya1393/Cognizant_AI_Virtual_Internship_Project/assets/84855509/86418d26-0596-4191-bac9-439857edff8b)
 
 ## Second step: Load the testing dataset and define the Key Performance Indicators (KPIs) for the Machine Learning Model. 
-### Below is a comprehensive step-by-step guide with a completed Google Colab file that includes code to execute the described second step:
+### Below is a comprehensive step-by-step guide with a completed Google Colab file that includes code to execute the described SECOND step:
 
 [Google Colab File 1](https://colab.research.google.com/drive/1CkkFzAnQFj99LFznSzGbqIUGCGRVlXml?authuser=0#scrollTo=pSSkCqc0sCiG)
 
@@ -23,4 +23,12 @@
 
 ### Observation after the second step: 
 ![Task 3 Model Answer 1](https://github.com/Ameya1393/Cognizant_AI_Virtual_Internship_Project/assets/84855509/2fa764ac-dbe4-4a4e-9713-49a8b8c7b8c5)
+
+## Third step: Execute data cleaning and preprocessing on the final provided datasets, followed by the creation of a machine learning model using the Random Forest algorithm to predict hourly sales demand for each item.
+### Final Datasets used : [Final Datasets](https://drive.google.com/drive/folders/1rO2n9oMoEAQlteHnRBJLzigYBFcOcD8a)
+
+### Below is a comprehensive step-by-step guide with a completed Google Colab file that includes code to execute the described THIRD step:
+
+[Google Colab File 2](https://colab.research.google.com/drive/1TNgSF1_vW6_B1eqFy49bM-uhVElwWN3J#scrollTo=RqQO_KMxmXRj)
+
 
