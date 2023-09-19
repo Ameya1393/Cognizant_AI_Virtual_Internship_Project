@@ -19,3 +19,5 @@
 
 [Google Colab File 1](https://colab.research.google.com/drive/1CkkFzAnQFj99LFznSzGbqIUGCGRVlXml?authuser=0#scrollTo=pSSkCqc0sCiG)
 
+### Initial Dataset used: [Initial Sales Dataset](https://drive.google.com/drive/folders/1thgLwBgaD3tcl8aVWKTXFUjiXDo0I_bg)
+
