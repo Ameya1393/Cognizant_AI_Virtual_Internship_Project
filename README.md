@@ -31,4 +31,10 @@
 
 [Google Colab File 2](https://colab.research.google.com/drive/1TNgSF1_vW6_B1eqFy49bM-uhVElwWN3J#scrollTo=RqQO_KMxmXRj)
 
+## Step 4: Develop a Python script that executes the Machine Learning Model, loads a CSV file into a DataFrame, and initiates training using the provided data.
+### Please find the attached Python file here: [Python Script](https://drive.google.com/drive/folders/1ZlCnSTk5IMkn0IiobtfASADifVax-8hu)
+
+# Conclusion:
+## 
+
 
