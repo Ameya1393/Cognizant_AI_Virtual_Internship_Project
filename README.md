@@ -10,3 +10,10 @@
 ### Project Objective:
 #### The primary objective of this project is to analyze their data to formulate key questions and provide actionable recommendations for more effective inventory stocking.
 
+### Role: Data scientist
+## First step: Create a data model for the project
+![Data model for project shorte](https://github.com/Ameya1393/Cognizant_AI_Virtual_Internship_Project/assets/84855509/86418d26-0596-4191-bac9-439857edff8b)
+
+## Second step: Load the testing dataset and define the Key Performance Indicators (KPIs) for the Machine Learning Model. 
+### Below is a comprehensive step-by-step guide with a completed Google Colab file that includes code to execute the described second step.
+
