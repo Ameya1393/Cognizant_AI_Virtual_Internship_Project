@@ -39,6 +39,13 @@
 ## Step 4: Develop a Python script that executes the Machine Learning Model, loads a CSV file into a DataFrame, and initiates training using the provided data.
 ### Please find the attached Python file here: [Python Script](https://drive.google.com/drive/folders/1ZlCnSTk5IMkn0IiobtfASADifVax-8hu)
 
+## Important Data Visualizations: 
+![Data vis 0](https://github.com/Ameya1393/Cognizant_AI_Virtual_Internship_Project/assets/84855509/57ead898-2925-4834-b96f-ecf0d7c33591)
+
+![data viz -1](https://github.com/Ameya1393/Cognizant_AI_Virtual_Internship_Project/assets/84855509/9ac8558c-5361-49bc-949b-e8fa8abb7f69)
+
+![Data vis 1](https://github.com/Ameya1393/Cognizant_AI_Virtual_Internship_Project/assets/84855509/eee2acf0-2397-4ac2-a23c-7cfb0f4fe7b0)
+
 # Conclusion:
 ### We have successfully developed a machine learning model using Random Forest to predict stock requirements based on hourly data and weather conditions. This end-to-end project has equipped me with in-depth knowledge of Python libraries and various functions. While this machine learning model is not perfect, we recognize that there is room for improvement through further testing and the application of different techniques. Nevertheless, it represents a significant initial stride in the right direction. With continued effort, we can create an efficient model that will enhance Gala Groceries' revenue.
 
