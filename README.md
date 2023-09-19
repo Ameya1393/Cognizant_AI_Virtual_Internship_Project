@@ -24,7 +24,7 @@
 ## Second step: Load the testing dataset and define the Key Performance Indicators (KPIs) for the Machine Learning Model. 
 ### Below is a comprehensive step-by-step guide with a completed Google Colab file that includes code to execute the described SECOND step:
 
-[Google Colab File 1](https://colab.research.google.com/drive/1CkkFzAnQFj99LFznSzGbqIUGCGRVlXml?authuser=0#scrollTo=pSSkCqc0sCiG)
+## [Google Colab File 1](https://colab.research.google.com/drive/1CkkFzAnQFj99LFznSzGbqIUGCGRVlXml?authuser=0#scrollTo=pSSkCqc0sCiG)
 
 ### Initial Dataset used: [Initial Sales Dataset](https://drive.google.com/drive/folders/1thgLwBgaD3tcl8aVWKTXFUjiXDo0I_bg)
 
@@ -36,7 +36,7 @@
 
 ### Below is a comprehensive step-by-step guide with a completed Google Colab file that includes code to execute the described THIRD step:
 
-[Google Colab File 2](https://colab.research.google.com/drive/1TNgSF1_vW6_B1eqFy49bM-uhVElwWN3J#scrollTo=RqQO_KMxmXRj)
+## [Google Colab File 2](https://colab.research.google.com/drive/1TNgSF1_vW6_B1eqFy49bM-uhVElwWN3J#scrollTo=RqQO_KMxmXRj)
 
 ## Step 4: Develop a Python script that executes the Machine Learning Model, loads a CSV file into a DataFrame, and initiates training using the provided data.
 ### Please find the attached Python file here: [Python Script](https://drive.google.com/drive/folders/1ZlCnSTk5IMkn0IiobtfASADifVax-8hu)
