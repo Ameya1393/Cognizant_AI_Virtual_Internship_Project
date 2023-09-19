@@ -1,4 +1,4 @@
-
+# Cognizant AI Virtual Internship Project
 ![cognizant](https://github.com/Ameya1393/Cognizant_AI_Virtual_Internship_Project/assets/84855509/7dcc6109-f447-4da0-a9d4-c17d390e2702)
 
 
