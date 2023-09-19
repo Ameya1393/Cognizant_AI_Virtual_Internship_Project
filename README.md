@@ -11,6 +11,11 @@
 #### The primary objective of this project is to analyze their data to formulate key questions and provide actionable recommendations for more effective inventory stocking.
 
 ### Role: Data scientist
+
+### Key Python libraries employed: pandas, seaborn, matplotlib, and numpy.
+
+### Key skills applied: Data modeling, feature engineering, data cleaning, data pre-processing, and data visualization.
+
 ## First step: Create a data model for the project
 ![Data model for project shorte](https://github.com/Ameya1393/Cognizant_AI_Virtual_Internship_Project/assets/84855509/86418d26-0596-4191-bac9-439857edff8b)
 
@@ -35,6 +40,6 @@
 ### Please find the attached Python file here: [Python Script](https://drive.google.com/drive/folders/1ZlCnSTk5IMkn0IiobtfASADifVax-8hu)
 
 # Conclusion:
-## 
+### We have successfully developed a machine learning model using Random Forest to predict stock requirements based on hourly data and weather conditions. This end-to-end project has equipped me with in-depth knowledge of Python libraries and various functions. While this machine learning model is not perfect, we recognize that there is room for improvement through further testing and the application of different techniques. Nevertheless, it represents a significant initial stride in the right direction. With continued effort, we can create an efficient model that will enhance Gala Groceries' revenue.
 
 
