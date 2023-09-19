@@ -16,6 +16,8 @@
 
 ### Key skills applied: Data modeling, feature engineering, data cleaning, data pre-processing, and data visualization.
 
+### Machine Learning Model Used: Random Forest
+
 ## First step: Create a data model for the project
 ![Data model for project shorte](https://github.com/Ameya1393/Cognizant_AI_Virtual_Internship_Project/assets/84855509/86418d26-0596-4191-bac9-439857edff8b)
 
