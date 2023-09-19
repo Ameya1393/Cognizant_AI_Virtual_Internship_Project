@@ -22,3 +22,5 @@
 ### Initial Dataset used: [Initial Sales Dataset](https://drive.google.com/drive/folders/1thgLwBgaD3tcl8aVWKTXFUjiXDo0I_bg)
 
 ### Observation after the second step: 
+![Task 3 Model Answer 1](https://github.com/Ameya1393/Cognizant_AI_Virtual_Internship_Project/assets/84855509/2fa764ac-dbe4-4a4e-9713-49a8b8c7b8c5)
+
